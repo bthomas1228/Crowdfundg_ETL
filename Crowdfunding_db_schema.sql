@@ -1,3 +1,5 @@
+--create four tables with correct column names to import data from corresponding csvs
+
 CREATE TABLE Contacts (
 	contact_id VARCHAR(150) PRIMARY KEY NOT NULL,
 	first_name VARCHAR(150),
@@ -34,7 +36,9 @@ CREATE TABLE Campaign (
     subcategory_id VARCHAR(150) NOT NULL,
     foreign key (subcategory_id) references Subcategory(subcategory_id)
 );
+-- Import data from Contacts.csv, Category.csv, Subcategory.csv and Campaign.csv to populate tables
 
+-- Check that the data imported correctly
 
 SELECT * FROM Contacts;
 SELECT * FROM Category;
