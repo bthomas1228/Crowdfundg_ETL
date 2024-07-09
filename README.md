@@ -23,6 +23,7 @@ Although you and your partner will divide the work, it’s essential to collabor
 # Verifying Databases
 -To verify and test if the schema works:
 	-Please create a new Postgres database, named crowdfunding_db.
+
 	-With the provided file "Crowdfunding_db_schemas.sql" copy and paste it to Postgres, to create the DataFrames listed and upload the CSV files in Resources folder into each Dataframes.
 
 # Resources
