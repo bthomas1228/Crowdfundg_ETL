@@ -27,7 +27,7 @@ Although you and your partner will divide the work, it’s essential to collabor
 
 	-With the provided file "Crowdfunding_db_schemas.sql" copy and paste it to Postgres.
 
-	-it will create the DataFrames listed
+	-it will create the DataFrames listed in the schemas.
 
 	-Import the CSV files in Resources folder into each Dataframe/table that was created. 
 
