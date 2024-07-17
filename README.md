@@ -29,7 +29,9 @@ Although you and your partner will divide the work, it’s essential to collabor
 
 	-it will create the DataFrames listed
 
-	-upload the CSV files in Resources folder into each Dataframes.
+	-upload the CSV files in Resources folder into each Dataframe/table that was created. * Import by the following order: contacts, category, subcategory and campaign. *
+	
+	
 
 # Resources
 
